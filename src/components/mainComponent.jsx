@@ -90,7 +90,7 @@ const FrontPage = () => {
                                         setAltitudes (altitudes);
                                         setWeather (true);
                                     }}
-                                    className="py-1 px-2 border border-sky-600 rounded-4xl hover:text-xl hover:bg-sky-500 active:bg-sky-500 hover:text-white cursor-pointer">
+                                    className="text-white bg-sky-500 py-1 px-2 border border-sky-600 rounded-4xl hover:text-xl hover:bg-sky-500 active:bg-sky-500 hover:text-white md:text-black md:bg-transparent md:text- cursor-pointer">
                                     {`${city.name}, ${city.country}`}
                                 </button>
                             ))
