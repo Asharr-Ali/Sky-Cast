@@ -17,7 +17,7 @@
 
 ## 🖥️ Live Demo
 
-🔗 [https://skycast.vercel.app]([https://skycast.vercel.app](https://skycast-three.vercel.app/))
+🔗 [([https://skycast.vercel.app](https://skycast-three.vercel.app/))
 
 ## ⚙️ Tech Stack
 
